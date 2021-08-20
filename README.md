@@ -13,10 +13,10 @@ Here we have shared our powerpoint presentation of this Talk as well as some Han
 
 # About the files:
 
-   <B>1.  gpu_optim(2).ppt</B> - This is the main presentation file based on above listed topics.<br>
-   <B>2.  assign_gpu_optim.ipynb</B> : This is main assignment file assigned to the students based on the topics discussed in first series of ML TALKS.<br>
-   <B>3.  <name>assign_gpu_optim.ipynb</B> : These files contain the solution by each students for the given assignement.<br>
-   <B>4.  solution_gpuoptim.ipynb</B> : This file contain the official solution of assignements.<br>
+   1.  <B>gpu_optim(2).ppt</B> - This is the main presentation file based on above listed topics.<br>
+   2.  <B>assign_gpu_optim.ipynb</B> : This is main assignment file assigned to the students based on the topics discussed in first series of ML TALKS.<br>
+   3.  <B><name>assign_gpu_optim.ipynb</B> : These files contain the solution by each students for the given assignement.<br>
+   4.  <B>solution_gpuoptim.ipynb</B> : This file contain the official solution of assignements.<br>
  
  
  # Organisers :
