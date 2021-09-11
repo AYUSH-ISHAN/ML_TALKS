@@ -26,5 +26,5 @@ Here we have shared our powerpoint presentation of this Talk as well as some Han
   
  # Mentor :
   
-  <a href = "https://github.com/hex-plex">SOMANTH KUMAR</a>
+  <a href = "https://github.com/hex-plex">SOMANTH SENDHIL KUMAR</a>
   
